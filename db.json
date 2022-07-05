@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Yogurt",
+      "image": "https://images.albertsons-media.com/is/image/ABS/960141090?$ecom-pdp-desktop$&defaultImage=Not_Available&defaultImage=Not_Available",
+      "price": "2.0",
+      "id": 8
     }
   ]
 }
